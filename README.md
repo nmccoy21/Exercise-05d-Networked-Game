@@ -22,5 +22,5 @@ None
 
 ## Created by 
 
-Jason Francis
+Nolan McCoy
 ```
